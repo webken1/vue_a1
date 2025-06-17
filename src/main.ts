@@ -12,7 +12,7 @@ app.use(createPinia())
 app.use(router)
 
 const fun = () => {
-  console.log('我爱你组件')
+  console.log('我爱你组件1')
 }
 fun()
 
