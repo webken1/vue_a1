@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
 for (let i = 0; i < 100; i++) {
   console.log(i)
 }
-const str = '我是组件9'
+const str = '我是组件9111'
 </script>
 <style scoped>
 header {
