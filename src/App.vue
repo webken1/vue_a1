@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-    <h1>8882</h1>
+    <h1>新增标题</h1>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
 
@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
 for (let i = 0; i < 100; i++) {
   console.log(i)
 }
-const str = '我是组件9111'
+const str = '我是组件98888'
 </script>
 <style scoped>
 header {
